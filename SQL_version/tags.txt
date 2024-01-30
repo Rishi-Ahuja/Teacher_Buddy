@@ -1,0 +1,5 @@
+NN: Noun
+VB: Verb
+JJ: Adjective
+PRP: Pronoun
+IN: Preposition
