@@ -5,7 +5,7 @@ def add_student_sql():
     from tkinter import messagebox
     from tkinter import ttk
 
-    connect = ms.connect(host = "localhost", user = "root", passwd = "Rishi@98109_mac", database = "sca_003")
+    connect = ms.connect(host = "localhost", user = "***", passwd = "****", database = "***")
     cursor = connect.cursor()
 
     def create_table():
