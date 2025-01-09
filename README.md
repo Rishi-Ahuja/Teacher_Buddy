@@ -1,6 +1,6 @@
 # Paragraph Checker - README
 
-![Paragraph Checker Logo](https://via.placeholder.com/250x127.png?text=Logo)  
+![Paragraph Checker Logo](/images/Logo.png)  
 A powerful, user-friendly tool for evaluating and grading paragraphs based on predefined rules.
 
 ---
@@ -71,13 +71,13 @@ It provides real-time feedback, scoring, and visualizes word usage.
 
 ## Screenshots
 ### Home Screen
-![Home Screen](https://via.placeholder.com/800x400.png?text=Home+Screen)
+![Home Screen](home_1.png)
 
 ### Paragraph Evaluation
-![Evaluation Screen](https://via.placeholder.com/800x400.png?text=Evaluation+Screen)
+![Evaluation Screen](/images/score.png)
 
 ### Word Frequency Visualization
-![Word Frequency](https://via.placeholder.com/800x400.png?text=Word+Frequency+Chart)
+![Word Frequency](/images/plagiarism.png)
 
 ---
 
