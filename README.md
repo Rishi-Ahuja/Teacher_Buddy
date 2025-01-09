@@ -1,6 +1,6 @@
 # Paragraph Checker - README
 
-![Paragraph Checker Logo](https://via.placeholder.com/250x127.png?text=Logo)  
+![Paragraph Checker Logo](/images/Logo.png)  
 A powerful, user-friendly tool for evaluating and grading paragraphs based on predefined rules.
 
 ---
