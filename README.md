@@ -71,7 +71,7 @@ It provides real-time feedback, scoring, and visualizes word usage.
 
 ## Screenshots
 ### Home Screen
-![Home Screen](home_1.png)
+![Home Screen](/images/homee.png)
 
 ### Paragraph Evaluation
 ![Evaluation Screen](/images/score.png)
