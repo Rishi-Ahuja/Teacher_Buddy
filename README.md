@@ -1,4 +1,4 @@
-# TEacher Buddy - README
+# Teacher Buddy - README
 
 ![Paragraph Checker Logo](/images/Logo.png)  
 A powerful, user-friendly tool for evaluating and grading paragraphs based on predefined rules.
